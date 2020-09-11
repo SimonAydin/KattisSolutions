@@ -1,4 +1,4 @@
-# KattisSolutions
+# Kattis Solutions
 Solutions to kattis problems
 
 | Problem | Language |
