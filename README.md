@@ -19,4 +19,5 @@ Solutions to kattis problems
 | Watchdog | C |
 | Okviri | C# |
 | Combination Lock | C# |
+| Above Average | C# |
 
