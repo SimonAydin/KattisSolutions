@@ -17,4 +17,6 @@ Solutions to kattis problems
 | Prva | C |
 | Solving for Carrots | C |
 | Watchdog | C |
+| Okviri | C# |
+| Combination Lock | C# |
 
