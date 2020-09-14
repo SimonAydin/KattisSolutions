@@ -20,4 +20,5 @@ Solutions to kattis problems
 | Okviri | C# |
 | Combination Lock | C# |
 | Above Average | C# |
+| R2 | C |
 
