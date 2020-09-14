@@ -1,0 +1,13 @@
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\bin\Debug\netcoreapp3.1\Okviri.exe
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\bin\Debug\netcoreapp3.1\Okviri.deps.json
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\bin\Debug\netcoreapp3.1\Okviri.runtimeconfig.json
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\bin\Debug\netcoreapp3.1\Okviri.runtimeconfig.dev.json
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\bin\Debug\netcoreapp3.1\Okviri.dll
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\bin\Debug\netcoreapp3.1\Okviri.pdb
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\obj\Debug\netcoreapp3.1\Okviri.csprojAssemblyReference.cache
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\obj\Debug\netcoreapp3.1\Okviri.AssemblyInfoInputs.cache
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\obj\Debug\netcoreapp3.1\Okviri.AssemblyInfo.cs
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\obj\Debug\netcoreapp3.1\Okviri.csproj.CoreCompileInputs.cache
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\obj\Debug\netcoreapp3.1\Okviri.dll
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\obj\Debug\netcoreapp3.1\Okviri.pdb
+C:\Users\Simon Aydin\Desktop\kattis\Okviri\obj\Debug\netcoreapp3.1\Okviri.genruntimeconfig.cache
